@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/TCE/MLflow/mlflow/sklearn_elasticnet_wine/mlruns/0/a1dd3f1f4b1c42cca61ac345205ad45c/artifacts
+end_time: 1696101057793
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1dd3f1f4b1c42cca61ac345205ad45c
+run_name: kindly-skink-514
+run_uuid: a1dd3f1f4b1c42cca61ac345205ad45c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696101052970
+status: 3
+tags: []
+user_id: sushobhon
